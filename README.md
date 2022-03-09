@@ -33,3 +33,9 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rwenjs&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 <br />
 <br />
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+## I'm amele ✍
+- Fazla bisi yok soru vs. discord veya instagramdan ulasabilirsin
+- 
