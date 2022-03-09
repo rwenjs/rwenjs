@@ -38,4 +38,3 @@
 
 ## I'm amele ✍
 - Fazla bisi yok soru vs. discord veya instagramdan ulasabilirsin
-- 
