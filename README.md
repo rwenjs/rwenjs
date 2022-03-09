@@ -29,12 +29,16 @@
 [python]: https://www.python.org/
 [xd]: https://www.adobe.com/products/xd.html
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=rwenjs&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rwenjs&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+### GitHub Analytics 📊
+
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rwenjs&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+</a>
+
+<br />
 <br />
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm amele ✍
-- Fazla bisi yok soru vs. discord veya instagramdan ulasabilirsin
+- Discord Bot yapiom bazen, fazla bisi yok soru vs. discord veya instagramdan ulasabilirsin
