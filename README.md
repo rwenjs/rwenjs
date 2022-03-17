@@ -1,3 +1,6 @@
+<div align="center">
+    <a href="https://discord.com/users/573366129188274204" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/573366129188274204"></a>
+</div>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
