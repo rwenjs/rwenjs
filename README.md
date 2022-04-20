@@ -1,43 +1,22 @@
+# benluhuxcanim <img src="https://komarev.com/ghpvc/?username=utw0&label=Ziyaretçi%20Sayısı&color=552b75" alt="utw0" />
+
 <div align="center">
-    <a href="https://discord.com/users/573366129188274204" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/573366129188274204"></a>
+ <img alt="GIF" src="https://camo.githubusercontent.com/fb545c5c9036e1c7acdd0baa2129c848f6c9e7272fdd40b9c51b42c1ef64ad13/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3836373835353139353138363739303436302f3837393834303530313535323030313033342f39616363323939663163396163343366376633356432316361643633636130612e706e67"/> 
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-## I'm amele ✍
-- Discord Bot yapiom bazen, fazla bisi yok soru vs. asagidan discord veya instagramdan ulasabilirsin
 
 
-### 📩 Bana ulaşmak için:
-
-[<img align="left" alt="instagram | İletişim" width="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Discord | İletişim" width="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" />][discord]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 
-<br />
-
-
-[instagram]: https://www.instagram.com/rwennnnnnnnn
-[discord]: https://discord.com/users/573366129188274204
-[gmail]: rwenjs@gmail.com
-<br />
-
-### 🔧 Kullandıklarım vs:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-
-<br />
-
-[vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/rwenjs
-[python]: https://www.python.org/
-
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=rwenjs&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+## Buralardan ulaşabilirsiniz
+<div align="center">
+<a href="https://www.instagram.com/rwennnnnnnn/?hl=tr" target"blank_"> <!--Sol tarafa bak abi orada kendi github linkini koy-->
+<img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://open.spotify.com/user/aoj0e0b3twag42g0h8nxqm4ms" target"blank_">
+<img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+</div>
+<div align="center">
+   <a href="https://discord.com/users/573366129188274204" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/573366129188274204?bg=111111">
+   </a>
+</div>
